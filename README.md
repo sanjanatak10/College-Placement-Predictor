@@ -103,7 +103,7 @@ Then open your browser and go to `http://localhost:8501`
 
 ## 👨‍💻 Author
 
-**Your Name**
+Sanjana Tak
 - GitHub: https://github.com/sanjanatak10
 - LinkedIn: https://www.linkedin.com/in/sanjana-tak-dev
 
